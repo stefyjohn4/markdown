@@ -208,6 +208,8 @@ With a reference later in the document defining the URL location:
 
 [id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
 
+![Happy](https://unsplash.com/photos/lm6wcGMLaUM) 
+
 
 ## Plugins
 
