@@ -40,3 +40,10 @@ pm install -g @angular/cli
 * Step 4
 * Step 5
 * Step 6
+
+```js
+console.log('I\'m preceded by an empty line!');
+console.log('Hooray!');
+```
+
+![alt text](http://url/to/img.png)
