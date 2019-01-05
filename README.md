@@ -25,3 +25,18 @@ dummytext dummytext dummytext dummytext dummytext dummytext dummytext dummytext 
 
 dummytext dummytext dummytext dummytext dummytext dummytext dummytext dummytext dummytext
 dummytext dummytext dummytext dummytext dummytext dummytext dummytext dummytext dummytext
+
+```
+npm install -g jsdoc
+pm install -g @angular/cli
+
+```
+
+### Unordered list
+
+* Step 1
+* Step 2
+* Step 3
+* Step 4
+* Step 5
+* Step 6
